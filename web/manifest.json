@@ -1,6 +1,6 @@
 {
-    "name": "psy_fi_help_app",
-    "short_name": "psy_fi_help_app",
+    "name": "test app",
+    "short_name": "test app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
